@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kashin_2_6_variant3</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="divisor">Divisor</string>
+    <string name="search">Search</string>
+    <string name="developer">developer</string>
+    <string name="yegor_kashin_ribo_04_21">Yegor_Kashin_RIBO_04_21</string>
+</resources>
